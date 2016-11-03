@@ -16,7 +16,7 @@
  */
 
 .cbgMedian {
-  fill: var(--data-purple--dark);
+  fill: #291A45;
 }
 .cbgMedianBackgrounded {
   composes: cbgMedian;
@@ -30,9 +30,9 @@
 .rangeSlice {
   // the stroke on this outermost slice is to blend in w/bkgrnd
   // and thus prevent flashing when mousing from slice to slice
-  stroke: var(--bkgrnd-darkest);
+  stroke: #D3DBDD;
   stroke-width: 1px;
-  fill: var(--data-purple--lightest);
+  fill: #B6C1E3;
 }
 .rangeSliceBackgrounded {
   composes: rangeSlice;
@@ -41,7 +41,7 @@
 
 .outerSlice {
   composes: noStroke;
-  fill: var(--data-purple--light);
+  fill: #96A6E9;
 }
 .outerSliceBackgrounded {
   composes: outerSlice;
@@ -50,7 +50,7 @@
 
 .quartileSlice {
   composes: noStroke;
-  fill: var(--data-purple--medium);
+  fill: #617CFC;
 }
 .quartileSliceBackgrounded {
   composes: quartileSlice;

@@ -16,11 +16,11 @@
  */
 
 .nonTargetBackground {
-  fill: var(--bkgrnd-darkest);
+  fill: #D3DBDD;
 }
 
 .targetBackground {
-  fill: var(--bkgrnd-dark);
+  fill: #E3EAED;
 }
 
 .threeHrLine {
