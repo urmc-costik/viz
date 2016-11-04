@@ -32,7 +32,7 @@
 }
 
 .collapsibleLabel {
-  border-top: 1px solid var(--collapsible--border);
+  border-top: 1px solid #EDEDED;
   justify-content: flex-start;
   line-height: 40px;
   margin-left: 20px;

@@ -23,7 +23,7 @@
   cursor: pointer;
 }
 .header:hover {
-  color: var(--text-hover);
+  color: #00D3D9;
 }
 .headerOuter:nth-last-of-type(1) .headerInner{
   transition-property: width;

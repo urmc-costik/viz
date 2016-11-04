@@ -35,11 +35,11 @@
 }
 
 .settingsTable tbody tr:nth-child(odd) {
-  background-color: var(--table-stripe--dark);
+  background-color: #ECECEC;
 }
 
 .settingsTable tbody tr:nth-child(even), .settingsTable thead tr {
-  background-color: var(--table-stripe--light);
+  background-color: #F7F7F7;
 }
 
 .basalTable {
@@ -51,15 +51,15 @@
 }
 
 .basalHeaderBackground {
-  background-image: linear-gradient(to right, var(--basal) 0, var(--basal) 14px, #d7f1fb 14px, #d7f1fb 100%);
+  background-image: linear-gradient(to right, #19A0D7 0, #19A0D7 14px, #d7f1fb 14px, #d7f1fb 100%);
 }
 
 .bolusHeaderBackground {
-  background-image: linear-gradient(to right, var(--bolus) 0, var(--bolus) 14px, #d7f1fb 14px, #d7f1fb 100%);
+  background-image: linear-gradient(to right, #7CD0F0 0, #7CD0F0 14px, #d7f1fb 14px, #d7f1fb 100%);
 }
 
 .settingsHeaderDecoration {
-  border-bottom: 1px solid var(--table-stripe--dark);
+  border-bottom: 1px solid #ECECEC;
 }
 
 .settingsHeaderHeight {

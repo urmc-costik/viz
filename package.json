@@ -1,7 +1,7 @@
 {
-  "name": "@tidepool/viz",
-  "version": "0.2.17",
-  "description": "Tidepool data visualization for diabetes device data.",
+  "name": "@hackingtype1/viz",
+  "version": "0.2.18",
+  "description": "IE compatible version of Tidepool data visualization for diabetes device data.",
   "keywords": [
     "data visualization"
   ],

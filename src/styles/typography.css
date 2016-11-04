@@ -41,13 +41,13 @@
 }
 
 .mediumContrastText {
-  color: var(--text-medium-contrast);
-  fill: var(--text-medium-contrast);
+  color: #727375;
+  fill: #727375;
 }
 
 .highContrastText {
-  color: var(--text-high-contrast);
-  fill: var(--text-high-contrast);
+  color: #281946;
+  fill: #281946;
 }
 
 .noWrap {
